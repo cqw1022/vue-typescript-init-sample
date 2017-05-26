@@ -2,6 +2,7 @@
 
 > vue-typescript-init-sample
 
+## for vue 2.2.6
 ## Build Setup
 
 ``` bash
